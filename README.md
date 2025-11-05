@@ -39,9 +39,9 @@
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
   </a>
   <a href="https://www.sonatype.com/products/repository-oss" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sonatype/sonatype-icon.svg" alt="nexus sonatype" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_of_Sonatype_Nexus_Repository.svg" alt="nexus sonatype" width="40" height="40"/>
   </a>
   <a href="https://goharbor.io/" target="_blank" rel="noreferrer">
-    <img src="https://goharbor.io/img/logos/harbor-icon-color.svg" alt="harbor" width="40" height="40"/>
+    <img src="https://goharbor.io/favicon.svg" alt="harbor" width="40" height="40"/>
   </a>
 </p>
