@@ -44,4 +44,10 @@
   <a href="https://goharbor.io/" target="_blank" rel="noreferrer">
     <img src="https://goharbor.io/favicon.svg" alt="harbor" width="40" height="40"/>
   </a>
+  <a href="www.keycloak.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.keycloak.org/resources/favicon.svg" alt="keycloak" width="40" height="40"/>
+  </a>
+  <a href="https://www.min.io/" target="_blank" rel="noreferrer">
+    <img src="https://artifacthub.io/image/aec2a822-2a3f-41a6-8a71-57c5d75d011e@3x" alt="harbor" width="40" height="40"/>
+  </a>
 </p>
