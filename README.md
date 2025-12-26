@@ -44,7 +44,7 @@
   <a href="https://goharbor.io/" target="_blank" rel="noreferrer">
     <img src="https://goharbor.io/favicon.svg" alt="harbor" width="40" height="40"/>
   </a>
-  <a href="www.keycloak.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
     <img src="https://www.keycloak.org/resources/favicon.svg" alt="keycloak" width="40" height="40"/>
   </a>
   <a href="https://www.min.io/" target="_blank" rel="noreferrer">
